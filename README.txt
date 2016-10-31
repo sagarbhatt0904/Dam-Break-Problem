@@ -1,0 +1,1 @@
+This is solution to Dam break problem. Run the 'run.sh' file on the terminal, csv files containg analytical solution, solution by Runge-Kutta Method, McCormack Method and Gudonov method will be generated.
